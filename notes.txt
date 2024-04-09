@@ -1,0 +1,15 @@
+super admin:
+    -user "superadmin"
+    -pass "123123"
+
+customer:
+    -user "customer"
+    -pass "123123"
+
+delivery:
+    -user "delivery"
+    -pass "asd123123"
+
+manager:
+    -user "manager"
+    -pass "asd123123"
